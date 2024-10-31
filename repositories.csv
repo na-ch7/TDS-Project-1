@@ -34,7 +34,7 @@ huggingface,huggingface/candle-layer-norm,2023-09-25T14:08:18Z,4,4,Cuda,True,Fal
 huggingface,huggingface/candle-paged-attention,2023-12-20T12:14:38Z,12,12,Cuda,True,True,apache-2.0
 huggingface,huggingface/candle-rotary,2023-12-21T11:07:22Z,8,8,Rust,True,True,apache-2.0
 huggingface,huggingface/candle-silu,2024-01-04T19:18:10Z,2,2,Rust,True,True,apache-2.0
-huggingface,huggingface/chat-macOS,2024-09-24T02:50:17Z,1489,1489,Swift,True,True,apache-2.0
+huggingface,huggingface/chat-macOS,2024-09-24T02:50:17Z,1490,1490,Swift,True,True,apache-2.0
 huggingface,huggingface/chat-ui,2023-02-17T15:31:50Z,7528,7528,TypeScript,True,True,apache-2.0
 huggingface,huggingface/chat-ui-android,2024-07-02T13:12:33Z,4,4,Kotlin,True,True,apache-2.0
 huggingface,huggingface/chug,2023-06-06T23:11:49Z,151,151,Python,True,True,apache-2.0
@@ -64,10 +64,10 @@ huggingface,huggingface/diff2html,2021-02-25T16:41:23Z,5,5,TypeScript,True,False
 huggingface,huggingface/diffusers,2022-05-30T16:04:02Z,25966,25966,Python,True,True,apache-2.0
 huggingface,huggingface/diffusers_all,2022-07-13T10:30:28Z,8,8,,True,True,apache-2.0
 huggingface,huggingface/diffusion-fast,2023-11-29T03:09:59Z,193,193,Python,True,True,apache-2.0
-huggingface,huggingface/diffusion-models-class,2022-10-13T09:13:48Z,3620,3620,Jupyter Notebook,True,True,apache-2.0
+huggingface,huggingface/diffusion-models-class,2022-10-13T09:13:48Z,3621,3621,Jupyter Notebook,True,True,apache-2.0
 huggingface,huggingface/disaggregators,2022-11-10T00:34:58Z,65,65,Python,True,True,apache-2.0
 huggingface,huggingface/discord-bots,2023-06-20T11:28:53Z,48,48,Python,True,True,
-huggingface,huggingface/distil-whisper,2023-10-31T16:34:45Z,3592,3592,Python,True,True,mit
+huggingface,huggingface/distil-whisper,2023-10-31T16:34:45Z,3593,3593,Python,True,True,mit
 huggingface,huggingface/distill-bloom-deepspeed,2022-10-06T09:39:53Z,18,18,Python,True,True,
 huggingface,huggingface/distribution-v2,2024-07-10T17:02:11Z,1,1,,True,True,
 huggingface,huggingface/doc-build,2022-01-13T09:53:28Z,16,16,HTML,True,True,
@@ -81,7 +81,7 @@ huggingface,huggingface/EnergyStarAI,2024-07-22T15:11:30Z,12,12,Dockerfile,True,
 huggingface,huggingface/ethics-education,2023-03-06T22:39:54Z,9,9,,True,True,
 huggingface,huggingface/ethics-scripts,2023-04-11T02:00:33Z,14,14,Python,True,True,
 huggingface,huggingface/evaluate,2022-03-30T15:08:26Z,2018,2018,Python,True,True,apache-2.0
-huggingface,huggingface/evaluation-guidebook,2024-10-09T10:36:39Z,722,722,,True,True,other
+huggingface,huggingface/evaluation-guidebook,2024-10-09T10:36:39Z,723,723,,True,True,other
 huggingface,huggingface/exporters,2022-05-23T10:57:55Z,619,619,Python,True,True,apache-2.0
 huggingface,huggingface/FastChat,2023-08-17T02:21:10Z,10,10,Python,True,False,apache-2.0
 huggingface,huggingface/fineVideo,2024-09-18T14:20:48Z,49,49,Python,True,True,
@@ -1504,7 +1504,7 @@ rom1504,rom1504/hora,2022-03-11T21:48:21Z,0,0,,True,True,apache-2.0
 rom1504,rom1504/http-asset,2015-10-01T10:45:07Z,0,0,JavaScript,True,True,
 rom1504,rom1504/ideas,2017-08-13T18:30:38Z,3,3,,True,True,
 rom1504,rom1504/image_embeddings,2020-06-05T20:51:55Z,154,154,Jupyter Notebook,True,True,mit
-rom1504,rom1504/img2dataset,2021-08-11T20:20:15Z,3688,3688,Python,True,True,mit
+rom1504,rom1504/img2dataset,2021-08-11T20:20:15Z,3689,3689,Python,True,True,mit
 rom1504,rom1504/imlb,2016-04-07T15:27:42Z,3,3,,True,True,
 rom1504,rom1504/instant.io,2015-05-31T19:15:20Z,0,0,JavaScript,True,True,mit
 rom1504,rom1504/java.io,2016-03-01T13:12:20Z,0,0,JavaScript,True,True,other
@@ -2750,7 +2750,7 @@ Genymobile,Genymobile/opengapps.github.io,2020-03-31T09:27:42Z,6,6,HTML,True,Fal
 Genymobile,Genymobile/python-engineio,2020-04-23T15:22:39Z,3,3,Python,True,True,mit
 Genymobile,Genymobile/qtgamepad,2024-05-22T16:10:10Z,1,1,C++,True,False,
 Genymobile,Genymobile/qtlocation,2020-10-06T14:38:48Z,3,3,,True,False,other
-Genymobile,Genymobile/scrcpy,2017-11-21T18:00:27Z,111254,111254,C,False,True,apache-2.0
+Genymobile,Genymobile/scrcpy,2017-11-21T18:00:27Z,111256,111256,C,False,True,apache-2.0
 Genymobile,Genymobile/terraform-provider-genymotion,2019-09-23T22:36:11Z,0,0,Go,False,False,mpl-2.0
 Genymobile,Genymobile/uncrustify,2016-04-06T07:12:35Z,3,3,C++,False,False,gpl-2.0
 GuillaumeGomez,GuillaumeGomez/actix,2020-05-07T10:12:59Z,0,0,,True,True,other
@@ -14276,7 +14276,7 @@ mangui,mangui/webextension-hls,2016-05-11T17:05:13Z,4,4,JavaScript,True,True,oth
 jbilcke-hf,jbilcke-hf/ai-app-factory,2023-09-05T16:56:12Z,1,1,TypeScript,True,True,apache-2.0
 jbilcke-hf,jbilcke-hf/ai-bedtime-story,2023-11-21T13:59:31Z,10,10,TypeScript,True,False,
 jbilcke-hf,jbilcke-hf/ai-clip-factory,2023-10-11T16:06:15Z,3,3,TypeScript,True,True,
-jbilcke-hf,jbilcke-hf/ai-comic-factory,2023-08-25T14:47:46Z,1032,1032,TypeScript,True,True,apache-2.0
+jbilcke-hf,jbilcke-hf/ai-comic-factory,2023-08-25T14:47:46Z,1033,1033,TypeScript,True,True,apache-2.0
 jbilcke-hf,jbilcke-hf/ai-news-robot,2024-01-09T09:19:30Z,2,2,TypeScript,True,True,apache-2.0
 jbilcke-hf,jbilcke-hf/ai-phone,2023-09-15T10:40:14Z,0,0,TypeScript,True,False,
 jbilcke-hf,jbilcke-hf/ai-stories-factory,2024-04-25T13:22:19Z,28,28,TypeScript,True,False,
@@ -22381,7 +22381,7 @@ deezer,deezer/sigir23-mojito,2023-04-17T09:55:55Z,27,27,Python,True,True,
 deezer,deezer/similar_artists_ranking,2021-07-12T14:04:06Z,19,19,Python,True,True,
 deezer,deezer/SingingLanguageIdentification,2021-02-03T16:05:37Z,3,3,,True,True,
 deezer,deezer/spiky_svd,2023-06-30T14:40:34Z,4,4,Python,True,True,
-deezer,deezer/spleeter,2019-09-26T15:40:46Z,25846,25846,Python,True,True,mit
+deezer,deezer/spleeter,2019-09-26T15:40:46Z,25847,25847,Python,True,True,mit
 deezer,deezer/spleeter-feedstock,2019-11-22T10:15:00Z,0,0,,True,False,bsd-3-clause
 deezer,deezer/spleeter-gpu-feedstock,2019-11-22T12:06:34Z,0,0,,True,False,bsd-3-clause
 deezer,deezer/stone,2024-07-15T14:45:20Z,6,6,Python,True,False,

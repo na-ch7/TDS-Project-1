@@ -1,10 +1,10 @@
 login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
-huggingface,Hugging Face,,NYC + Paris,,False,The AI community building the future.,261,38255,0,2017-02-12T11:20:28Z
+huggingface,Hugging Face,,NYC + Paris,,False,The AI community building the future.,261,38256,0,2017-02-12T11:20:28Z
 brunosimon,Bruno Simon,CREATIVE JOURNEY,Paris,,True,,79,18767,0,2013-09-11T23:44:41Z
 fabpot,Fabien Potencier,SYMFONY/PLATFORM.SH/BLACKFIRE,"Paris, France",fabien@symfony.com,False,"Founder and project lead at Symfony
 CPO at Platform.sh
 ",77,13245,0,2009-01-17T13:42:51Z
-Charles-Chrismann,Charles Chrismann,INSTITUT DE L'INTERNET ET DU MULTIMÉDIA (IIM),"Paris, La Défense",,False,Étudiant en 3e année de Développement Web à l'IIM ,35,12118,218311,2021-01-28T14:18:01Z
+Charles-Chrismann,Charles Chrismann,INSTITUT DE L'INTERNET ET DU MULTIMÉDIA (IIM),"Paris, La Défense",,False,Étudiant en 3e année de Développement Web à l'IIM ,35,12120,218310,2021-01-28T14:18:01Z
 posva,Eduardo San Martin Morote,FREELANCE,Paris ,,True,"Member of the @vuejs core team
 Speaker, trainer.
 From 🇪🇸, lives in 🇫🇷
@@ -161,7 +161,7 @@ Senior Software engineer @Uplight-Inc, ex-@Qwant",327,547,17,2011-01-07T23:06:48
 davidgohel,David Gohel,ARDATA,Paris,,False,,37,542,77,2013-05-03T13:31:42Z
 forax,Rémi Forax,UNIVERSITY GUSTAVE EIFFEL (PARIS),"Paris, France",,False,,112,541,0,2011-06-03T19:02:05Z
 helaili,Alain Hélaïli,GITHUB,Paris,helaili@github.com,False,"I'm a githubber, trying to spread the good word and ❤️  for the :octocat: ",65,536,4,2012-11-13T14:07:34Z
-baptisteArno,Baptiste Arnaud,,"Paris, France",,False,Software Engineer. Founder of Typebot.,112,535,58,2015-11-25T11:20:03Z
+baptisteArno,Baptiste Arnaud,,"Paris, France",,False,Software Engineer. Founder of Typebot.,112,536,58,2015-11-25T11:20:03Z
 acids-ircam,ACIDS,IRCAM,Paris,,False,Artificial Creative Intelligence and Data Science,25,533,1,2018-04-09T11:08:57Z
 Litarvan,Adrien Navratil,STOCKLY,"Paris, France",adrien1975@live.fr,False,23yo enthusiastic developer # Discord : litarvan,101,524,311,2014-09-09T16:25:35Z
 Kerollmops,Clément Renault,MEILISEARCH,"France, Paris",clement@meilisearch.com,False,I am the co-founder and CTO of @meilisearch. I learned coding at the Paris @42school. I live in Paris and love video games.,197,522,202,2013-02-16T10:55:57Z
@@ -442,7 +442,7 @@ blanklob,Youness Id bakkasse,,"Paris, France",,False,"Technology entrepreneur, b
 mremond,Mickaël Rémond,PROCESSONE,"Paris, France",mremond@process-one.net,False,"ProcessOne founder. Go, Swift, Erlang, Elixir developer. Building realtime messaging, push notification and reactive systems. ejabberd and fluux lead.",82,226,27,2009-05-20T14:27:49Z
 buybackoff,Victor Baybekov,,Paris,,True,,217,226,126,2010-11-20T17:28:26Z
 Fantomas42,Julien Fache,,"Paris, France",fantomas42@gmail.com,False,,26,226,7,2009-06-30T15:44:10Z
-deezer,Deezer,,Paris,deezerdevs@deezer.com,False,,77,225,0,2013-05-10T05:42:19Z
+deezer,Deezer,,Paris,deezerdevs@deezer.com,False,,77,226,0,2013-05-10T05:42:19Z
 adrienverge,Adrien Vergé,,Paris,,False,,87,224,0,2013-08-16T13:36:35Z
 jdesboeufs,Jérôme Desboeufs,LIVING DATA,Paris,jerome@livingdata.co,False,,76,223,41,2011-11-30T16:33:40Z
 JanGorman,Jan Gorman,PHOTOROOM,"Paris, France",gorman.jan@gmail.com,True,Senior iOS Engineer @PhotoRoom. Compiling Swift source files.,58,223,4,2009-10-11T07:02:11Z
@@ -462,7 +462,7 @@ Peltoche,Pierre Peltier,,Paris,pierre.peltier@protonmail.com,True,quack?,16,214,
 azerpas,Anthony,DATADOME,Paris,anthony@smbs.io,True,"@DataDome - 25, French 👋",98,213,35,2016-05-10T08:18:21Z
 JulienBreux,Julien Breux,GOOGLE,"Paris, France",,False,"Senior software engineer
 Go, Container, Kubernetes",177,212,361,2011-08-07T11:18:26Z
-mincong-h,Mincong Huang,,"Paris, France",mhuang@becomposable.com,False,把一件事做到了极致就是艺术 Taking something to the extreme is an art. Building @becomposable . Formerly @datadog @nuxeo ,83,212,617,2014-12-13T19:42:06Z
+mincong-h,Mincong Huang,,"Paris, France",mhuang@becomposable.com,False,把一件事做到了极致就是艺术 Taking something to the extreme is an art. Building @becomposable . Formerly @datadog @nuxeo ,83,212,618,2014-12-13T19:42:06Z
 Stephane-D,Stephane Dallongeville,,Paris,,False,,1,212,16,2011-02-15T12:03:21Z
 scolladon,Sebastien,,Paris France,colladonsebastien@gmail.com,False,,68,212,17,2010-12-14T09:29:05Z
 frgfm,F-G Fernandez,QUACK-AI @PYRONEAR,"Paris, FR",,True,"Deep Learning Engineer by day, Open Source contributor by night :bat: ",55,212,16,2017-04-05T13:34:38Z
